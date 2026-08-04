@@ -1,10 +1,14 @@
-![cover-v5-optimized](./images/GitHub_README_if.png)
+# AI Agent Studio
+### by Velocity11
+
+*A packaged, ready-to-deploy distribution of [Dify](https://github.com/langgenius/dify),
+an open-source LLM app development platform, licensed under Apache 2.0.*
+
+Original project: https://dify.ai -- https://github.com/langgenius/dify
 
 <p align="center">
-  <a href="https://cloud.dify.ai">Dify Cloud</a> ·
-  <a href="https://docs.dify.ai/getting-started/install-self-hosted">Self-hosting</a> ·
-  <a href="https://docs.dify.ai">Documentation</a> ·
-  <a href="https://dify.ai/pricing">Dify edition overview</a>
+  <a href="https://docs.dify.ai/getting-started/install-self-hosted">Self-hosting docs (upstream)</a> ·
+  <a href="https://docs.dify.ai">Full documentation (upstream)</a>
 </p>
 
 <p align="center">
