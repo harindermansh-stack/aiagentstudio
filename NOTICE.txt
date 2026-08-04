@@ -1,0 +1,15 @@
+AI Agent Studio (by Velocity11)
+
+This product is a packaged distribution of Dify, an open-source project
+created by LangGenius, Inc.
+
+Original project: https://github.com/langgenius/dify
+Original license: Apache License 2.0
+The full license text is included in this repository (see LICENSE).
+
+Copyright LangGenius, Inc.
+Packaging, setup documentation, and distribution by Velocity11, 2026.
+
+This distribution complies with the Apache 2.0 License: original copyright
+and license notices are retained, and no additional restrictions are placed
+on the licensed code beyond what Velocity11 adds in its own documentation.
