@@ -1,0 +1,9 @@
+Product: AI Agent Studio
+Package version: 1.0.0
+Package date: 2026-08-19
+Velocity11 repository: https://github.com/harindermansh-stack/aiagentstudio
+Packaged commit: 6d35cc0fd4aa26a2d6b61bd6e993ac9fc3e4f4c7
+Upstream project: langgenius/dify
+Referenced upstream fork point: e7380865d86e3744622f777b6c26fade704ece82
+Velocity11 changes identified: README branding, NOTICE attribution addition, package metadata branding.
+Licence: Dify Open Source License, described in source as a modified Apache License 2.0 with additional conditions. See LICENSE for exact terms.
